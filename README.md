@@ -1,2 +1,2 @@
 # -NACA-PLOTTER
-Type in a NACA code to calculate camber and thickness distribution
+Type in a NACA code to plot the aerofoil
